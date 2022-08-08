@@ -1,0 +1,9 @@
+.section {
+  padding: 8rem 5rem;
+  border-top: 2px solid #ddd;
+  transition: all 1s;
+}
+.hidden {
+  opacity: 0;
+  transform: translateY(10rem);
+}

@@ -1,0 +1,23 @@
+{
+  "name": "slideintext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhuqigong-2021/SlideinText-intersectionObserver-html-css-js.git"
+  },
+  "author": "zhuqigong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhuqigong-2021/SlideinText-intersectionObserver-html-css-js/issues"
+  },
+  "homepage": "https://github.com/Zhuqigong-2021/SlideinText-intersectionObserver-html-css-js#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
